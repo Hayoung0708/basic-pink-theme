@@ -15,6 +15,12 @@
 ![image](https://github.com/user-attachments/assets/b997442c-a461-4f1e-aca1-bc6ae620d316)
 ### JavaScript
 ![image](https://github.com/user-attachments/assets/b40a771a-c549-4ee5-a52b-7619ed9b2de5)
+### CSS
+<img width="445" height="119" alt="image" src="https://github.com/user-attachments/assets/c53412ea-8936-45d0-8421-37bd8d4ade6d" />
+
+### Markdown
+<img width="800" height="387" alt="image" src="https://github.com/user-attachments/assets/11cbba4c-9dbb-4c1c-b37e-e8a3cc43ec20" />
+
 
 <br>
 
