@@ -32,7 +32,7 @@
 <br>
 
 ## 💾 적용 방법
-1. [최신 버전 다운로드](https://github.com/Hayoung0708/basic-pink-theme/raw/refs/heads/main/version/basic-pink-theme-1.0.3.vsix)를 눌러 `.vsix` 파일 다운로드
+1. [최신 버전 다운로드](https://github.com/Hayoung0708/basic-pink-theme/raw/refs/heads/main/version/basic-pink-theme-1.1.0.vsix)를 눌러 `.vsix` 파일 다운로드
 2. VSCode를 열고, 좌측 사이드바에서 `Extensions(확장)` 아이콘 클릭
 3. 오른쪽 상단 `...` 클릭 → `Install from VSIX...(VSIX에서 설치...)` 선택
 4. 다운로드한 `.vsix` 파일을 선택하여 설치
@@ -45,7 +45,3 @@
 
 ## 💡 참고
 - 다른 폰트를 선호한다면 VSCode의 `settings.json`에서 직접 변경해주세요.
-
-<br>
-
-### ⭐ 테마가 마음에 드신다면 레포지토리 오른쪽 위에 있는 ![image](https://github.com/user-attachments/assets/331e10c8-b07c-4a91-b4e3-7816aa1694a1)를 눌러주세요. ⭐
