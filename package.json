@@ -5,9 +5,10 @@
     "version": "1.1.0",
     "publisher": "Hayoung Kang",
     "icon": "icon.png",
+    "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Hayoung0708/BasicPinkTheme"
+        "url": "https://github.com/Hayoung0708/basic-pink-theme.git"
     },
     "engines": {
         "vscode": "^1.50.0"
