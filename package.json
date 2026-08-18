@@ -2,34 +2,35 @@
     "name": "basic-pink-theme",
     "displayName": "Basic Pink Theme",
     "description": "A basic theme with soft pink accents and improved readability for Korean text.",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "publisher": "Hayoung Kang",
     "icon": "icon.png",
     "repository": {
-    "type": "git",
-    "url": "https://github.com/Hayoung0708/BasicPinkTheme"
+        "type": "git",
+        "url": "https://github.com/Hayoung0708/BasicPinkTheme"
     },
     "engines": {
-      "vscode": "^1.50.0"
+        "vscode": "^1.50.0"
     },
-    "categories": ["Themes"],
+    "categories": [
+        "Themes"
+    ],
     "contributes": {
-      "themes": [
-        {
-          "label": "Basic Dark Pink",
-          "uiTheme": "vs-dark",
-          "path": "./themes/dark_editor_text_color.json"
-        },
-        {
-          "label": "Basic Light Pink",
-          "uiTheme": "vs",
-          "path": "./themes/light_editor_text_color.json"
+        "themes": [
+            {
+                "label": "Basic Dark Pink",
+                "uiTheme": "vs-dark",
+                "path": "./themes/basic_dark.json"
+            },
+            {
+                "label": "Basic Light Pink",
+                "uiTheme": "vs",
+                "path": "./themes/basic_light.json"
+            }
+        ],
+        "configurationDefaults": {
+            "editor.fontFamily": "'Menlo', 'Monaco', 'Consolas', '나눔스퀘어라운드 Regular'",
+            "editor.bracketPairColorization.enabled": false
         }
-      ],
-      "configurationDefaults": {
-      "editor.fontFamily": "'Menlo', 'Monaco', 'Consolas', '나눔스퀘어라운드 Regular'",
-      "editor.bracketPairColorization.enabled": false
-    }
     }
 }
-  
