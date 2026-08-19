@@ -32,7 +32,7 @@
 <br>
 
 ## 💾 적용 방법
-1. [최신 버전 다운로드](https://github.com/Hayoung0708/basic-pink-theme/raw/refs/heads/main/version/basic-pink-theme-1.1.0.vsix)를 눌러 `.vsix` 파일 다운로드
+1. [최신 버전 다운로드](https://github.com/Hayoung0708/basic-pink-theme/raw/refs/heads/main/version/basic-pink-theme-1.2.0.vsix)를 눌러 `.vsix` 파일 다운로드
 2. VSCode를 열고, 좌측 사이드바에서 `Extensions(확장)` 아이콘 클릭
 3. 오른쪽 상단 `...` 클릭 → `Install from VSIX...(VSIX에서 설치...)` 선택
 4. 다운로드한 `.vsix` 파일을 선택하여 설치
